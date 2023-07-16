@@ -11,7 +11,7 @@ namespace program
         private String firstName;
         private String lastName;
         private String email;
-        private payment pay;
+
     }
 
 }
